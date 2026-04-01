@@ -274,5 +274,5 @@ win_inet_pton                1.1.0               py39haa95532_1
 xz                           5.6.4               h4754444_1
 yaml                         0.2.5               he774522_0
 zipp                         3.23.0              pyhd8ed1ab_0             conda-forge
-zlib                         1.3.1               h02ab6af_0
+zlib                         1.3.1               h02ab6af_0 
 zstd                         1.5.7               h56299aa_0
