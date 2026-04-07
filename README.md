@@ -109,7 +109,7 @@ study = run_quick_automl(n_trials=50)
 
 
 
-环境支持：
+## 环境支持
 # packages in environment at D:\anaconda\envs\dgl_new:
 #
 # Name                       Version             Build                    Channel
